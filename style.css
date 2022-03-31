@@ -1,0 +1,113 @@
+html{
+    background-color: black;
+}
+
+a{
+    color: chartreuse;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif    ;
+    font-size: 70px;
+    text-shadow: 3px 3px 5px rgb(221, 124, 224);
+    padding: 50px 50px 70px 120px;
+    background-color:mediumspringgreen;
+    
+}
+
+h2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 3px 2px 2px whitesmoke;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    
+    margin: auto;
+}
+   
+#negrito{
+    font-weight: bold;
+}
+
+.icones{
+float: right;
+padding-bottom: 10px;
+}
+
+#icone-gmail{
+    padding-bottom: 40px;
+    padding-left: 0px;
+    margin: auto;
+}
+
+#icone-insta{
+    padding-bottom: 10px;
+}
+
+
+.menu{
+    color: chartreuse;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav ul{
+    list-style-position: none;
+    padding-left: 250px;
+    background-color:darkblue;
+    margin-top: 100px;
+}
+
+nav ul li{
+    display: inline-block;
+    padding-right: 100px;
+}
+
+nav ul li a:hover{
+    text-decoration: overline;
+    text-decoration-color:whitesmoke;    
+}
+
+#quem-sou-eu{
+    height: 900px;
+}
+
+#cc{
+    height: 1000px;
+}
+
+#hobbies{
+    height: 1000px;
+}
+
+.text{
+    font-size: 28px;
+    font-family:'Courier New', Courier, monospace;
+    text-indent: 30px;
+    color: black;
+    background-color: mediumspringgreen;
+    padding-left: 100px;
+    padding-right: 50px;      
+}
+
+#links{
+    color: darkblue;
+}
+
+#links:hover{
+    color:white;
+    text-shadow: 3px 3px 3px black;
+}
+
+
+#foto-piano{
+    transform: rotate(-90deg);
+}
+
+table{
+    border-spacing: 50px;
+}
